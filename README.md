@@ -1,0 +1,8 @@
+# lab-0-Kyser-Lim
+lab-0-Kyser-Lim created by GitHub Classroom
+echo "# lab-0-Kyser-Lim" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/ee306-telang-spring2019/lab-0-Kyser-Lim.git
+git push -u origin master
